@@ -1,2 +1,4 @@
 # Jhon-teste
-AppJhon
+- Aprendendo GitHub
+- Ver como funciona
+
